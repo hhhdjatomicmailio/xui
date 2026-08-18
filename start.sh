@@ -3,8 +3,8 @@ set -e
 
 echo "🚀 Starting X-UI + nginx reverse proxy..."
 
-# nginx همیشه روی پورت ثابت 3000 گوش می‌دهد
-export NGINX_PORT=3000
+# nginx همیشه روی پورت ثابت 8080 گوش می‌دهد
+export NGINX_PORT=8080
 
 cd /usr/local/x-ui
 
