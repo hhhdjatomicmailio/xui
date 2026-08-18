@@ -56,7 +56,7 @@ https://دامنه‌شما.up.railway.app/cdn
 ```
 باید پیام **"Bad Request"** ببینید (یعنی درخواست به Xray رسیده). اگر پنل هم به همین شکل جواب داد یعنی مسیر nginx سالم است:
 ```
-https://دامنه‌شما.up.railway.app/managepanel/
+https://دامنه‌شما.up.railway.app
 ```
 
 ## نکات مهم
